@@ -1,7 +1,7 @@
 <h3 align=center> 안녕하세요 저는 강현준입니다. 👋</h3>
 <h4 align=center> 저는 현재 명지대학교 컴퓨터공학과에 재학중입니다.</h4>
 <h4 align=center> 백엔드 서버 개발자를 목표로 하고 있습니다.<h4>
-
+<h4 align=center> 개발 공부 블로그 -> https://code-apprentice.tistory.com/ <h4>
 <h3 align=center> Platforms & Languages </h3> 
 <div align=center>
 <div>
